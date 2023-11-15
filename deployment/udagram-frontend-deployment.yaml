@@ -18,7 +18,7 @@ spec:
         app: udagram-frontend
     spec:
       containers:
-        - image: phanhoaian0608/udagram-frontend:v1
+        - image: phanhoaian0608/udagram-frontend:v2
           name: udagram-frontend
           resources:
             requests:
